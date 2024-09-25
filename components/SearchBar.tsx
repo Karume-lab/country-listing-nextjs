@@ -1,3 +1,4 @@
+"use client";
 import { Country, SearchBarProps } from '@/interfaces';
 import React, { useState, useEffect, useRef } from 'react';
 import { PiMagnifyingGlassLight } from 'react-icons/pi';

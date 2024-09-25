@@ -1,3 +1,4 @@
+"use client";
 import { FilterDropdownProps } from '@/interfaces';
 import React, { useState, useEffect, useRef } from 'react';
 import { RiArrowDropDownLine } from 'react-icons/ri';
